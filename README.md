@@ -147,6 +147,17 @@
         <td align="center"><a href="https://bigd.big.ac.cn/search/?dbId=&q=HRA000787">Data_GSA_NGDC</a> <a href="http://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE154762">Data_NCBI_GEO</a></td>
         <td align="center">No Code</td>
     </tr>
+        <td colspan="6" align="center"><strong>Transcriptome & Histone modification</strong></td>
+    </tr>
+    <tr>
+        <td align="center">Paired-Tag</td> 
+        <td align="center"><a href="https://www.nature.com/articles/s41592-021-01060-3">Joint profiling of histone modifications and transcriptome in single cells from mouse brain</a></td> 
+        <td align="center">Nature Methods</td> 
+        <td align="center">2021-02-15</td> 
+        <td align="center"><a href="https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE152020">Data_NCBI_GEO</a></td>
+        <td align="center"><a href="https://github.com/cxzhu/Paired-Tag">Code</a></td>
+    </tr>
 </table>
+
 
 
